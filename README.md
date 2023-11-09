@@ -1,10 +1,12 @@
-# Hi everyone
+# Hi everyone, I am Daniel
 
-[![Header](https://github.com/1Danilka1/1danilka1/blob/main/assets/1_e-CnQ3XcOSjznpnBhMXQKg.gif)](https://www.upwork.com/nx/find-work/best-matches)
-
+<p align="center">
+    <img src="./assets/github-snake.svg" alt="snake">
+</p>
 
 ###  I am a beginner web developer
 
+---
 
 ### Lenguages and Tools
 
@@ -14,3 +16,14 @@
 ![CSS](https://img.shields.io/badge/CSS-0d0c0a?style=for-the-badge&logo=css3&logoColor=2965f1)
 ![Redux](https://img.shields.io/badge/redux-0d0c0a?style=for-the-badge&logo=redux&logoColor=764abc)
 ![Git](https://img.shields.io/badge/git-0d0c0a?style=for-the-badge&logo=git&logoColor=f1502f)
+
+<table>
+  <tr>
+  <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=1Danilka1&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1Danilka1&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
