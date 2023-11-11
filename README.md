@@ -11,9 +11,10 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### Contact to me:
  email: danylbragan@gmail.com
+
 ---
 
-### Lenguages and Tools
+### Lenguages: 
 
 ![React](https://img.shields.io/badge/React-0d0c0a?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0c0a?style=for-the-badge&logo=javascript)
@@ -21,12 +22,16 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 ![CSS](https://img.shields.io/badge/CSS-0d0c0a?style=for-the-badge&logo=css3&logoColor=2965f1)
 ![Sass](https://img.shields.io/badge/Sass-0d0c0a?style=for-the-badge&logo=sass)
 ![Redux](https://img.shields.io/badge/redux-0d0c0a?style=for-the-badge&logo=redux&logoColor=764abc)
+
+
+### Tools:
 ![Git](https://img.shields.io/badge/git-0d0c0a?style=for-the-badge&logo=git&logoColor=f1502f)
 ![VSCode](https://img.shields.io/badge/VSCode-0d0c0a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7)
 ![Figma](https://img.shields.io/badge/Figma-0d0c0a?style=for-the-badge&logo=figma&logoColor=595)
 ![Trello](https://img.shields.io/badge/Trello-0d0c0a?style=for-the-badge&logo=trello&logoColor=007AC0)
 ![Swagger](https://img.shields.io/badge/Swagger-0d0c0a?style=for-the-badge&logo=swagger)
 
+---
 
 <table>
   <tr>
